@@ -168,14 +168,21 @@
   },
   "active": "149f9c2929110da7",
   "lastOpenFiles": [
+    "11. Aprendizado Contínuo",
+    "10. Projetos Práticos",
+    "9. Soft Skills e Colaboração",
+    "8. Desenvolvimento de Software",
+    "7. Banco de Dados",
+    "6. Qualidade e Testes",
+    "5. Metodologias Ágeis",
+    "4. Controle de Versão",
+    "3. Design de Software",
+    "2. Linguagens de Programação",
+    "1. Fundamentos de Engenharia de Software",
     "Fundamentos de Engenharia de Software/☰ Fundamentos de Engenharia de Software.md",
     "☰ Fundamentos de Engenharia de Software.md",
     "☰ Algoritmos e estruturas de dados.md",
-    "Arquitetura de Software",
-    "Nova pasta",
     "Algoritmos e estruturas de dados/☰ Algoritmos e estruturas de dados.md",
-    "Algoritmos e estruturas de dados",
-    "Fundamentos de Engenharia de Software",
     "🟨 JavaScript/7.4 Revisao - Revise os conceitos e resolva duvidas.md",
     "🟨 JavaScript/☰ JavaScript.md",
     "🟦 TypeScript/7.2 Revisao - Revise os conceitos e resolva duvidas.md",
@@ -196,7 +203,6 @@
     "🟨 JavaScript/4.2 Promises - Criacao e uso de promises.md",
     "🟨 JavaScript/4.1 Callbacks - Conceito e uso.md",
     "🟨 JavaScript/3.3 Manipulacao de Objetos e Arrays - Iteracao e transformacao.md",
-    "🟨 JavaScript/3.2 Arrays - Criacao, metodos de array (push, pop, map, filter, reduce).md",
-    "🟨 JavaScript/3.1 Objetos - Criacao, propriedades, metodos.md"
+    "🟨 JavaScript/3.2 Arrays - Criacao, metodos de array (push, pop, map, filter, reduce).md"
   ]
 }
