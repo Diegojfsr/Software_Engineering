@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c0fbf66672b5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b16ef92b0e9ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "☰ Arquitetura de Softwere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "☰ Arquitetura de Softwere"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "☰ Arquitetura de Softwere.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de ☰ Arquitetura de Softwere"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "79b16ef92b0e9ebd",
+  "lastOpenFiles": [
+    "7. Segurança na Arquitetura/7 OWASP.md",
+    "7. Segurança na Arquitetura/6 Estratégias para mitigar vulnerabilidades.md",
+    "☰ Arquitetura de Softwere.md",
+    "7. Segurança na Arquitetura/5 Criptografia de dados.md",
+    "7. Segurança na Arquitetura/4 JWT.md",
+    "7. Segurança na Arquitetura/3 OAuth.md",
+    "7. Segurança na Arquitetura/2 Autenticação e Autorização.md",
+    "7. Segurança na Arquitetura/1 Princípios de segurança.md",
+    "6. Arquiteturas de Alta Disponibilidade/7 AWS ELB.md",
+    "6. Arquiteturas de Alta Disponibilidade/6 Nginx.md",
+    "6. Arquiteturas de Alta Disponibilidade/5 Balanceadores de carga.md",
+    "6. Arquiteturas de Alta Disponibilidade/4 Replicação de bancos de dados.md",
+    "6. Arquiteturas de Alta Disponibilidade/3 Redundância.md",
+    "6. Arquiteturas de Alta Disponibilidade/2 Sistemas escaláveis horizontal e verticalmente.md",
+    "6. Arquiteturas de Alta Disponibilidade/1 Design para Escalabilidade.md",
+    "5. Arquiteturas Baseadas em Dados/12 Spark.md",
+    "5. Arquiteturas Baseadas em Dados/11 Apache Kafka.md",
+    "5. Arquiteturas Baseadas em Dados/10 Pipeline de dados.md",
+    "5. Arquiteturas Baseadas em Dados/9 Data Warehouses.md",
+    "5. Arquiteturas Baseadas em Dados/8 Data Lakes.md",
+    "5. Arquiteturas Baseadas em Dados/7 Arquiteturas para Big Data.md",
+    "5. Arquiteturas Baseadas em Dados/6 Cassandra.md",
+    "5. Arquiteturas Baseadas em Dados/5 MongoDB.md",
+    "5. Arquiteturas Baseadas em Dados/4 Bancos de dados NoSQL.md",
+    "5. Arquiteturas Baseadas em Dados/3 PostgreSQL.md",
+    "5. Arquiteturas Baseadas em Dados/1 Bancos de dados Relacionais.md",
+    "9. Aprendizado Contínuo",
+    "8. Projetos Práticos",
+    "7. Segurança na Arquitetura",
+    "6. Arquiteturas de Alta Disponibilidade",
+    "5. Arquiteturas Baseadas em Dados",
+    "4. Modelagem de Arquitetura",
+    "3. Tecnologias e Ferramentas",
+    "2. Padrões de Arquitetura",
+    "1. Fundamentos de Arquitetura de Software",
+    "Arquitetura de Software"
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c0fbf66672b5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04c90b55876c98a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "☰ Algoritmos e estruturas de dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "☰ Algoritmos e estruturas de dados"
+            }
+          },
+          {
+            "id": "7c4933488978007e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Estruturas de Dados Avançadas/1 Árvores (Trees).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Árvores (Trees)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "☰ Algoritmos e estruturas de dados.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de ☰ Algoritmos e estruturas de dados"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "04c90b55876c98a0",
+  "lastOpenFiles": [
+    "5. Algoritmos Avançados/1 Algoritmos em Grafos.md",
+    "5. Algoritmos Avançados/3 Algoritmos Gulosos.md",
+    "5. Algoritmos Avançados/3.1 Como tomar decisões locais para alcançar soluções globais.md",
+    "☰ Algoritmos e estruturas de dados.md",
+    "5. Algoritmos Avançados/2.1 Como resolver problemas complexos dividindo-os em subproblemas menores.md",
+    "5. Algoritmos Avançados/2 Programação Dinâmica.md",
+    "5. Algoritmos Avançados/1.4 Árvore geradora mínima(Kruskal).md",
+    "5. Algoritmos Avançados/1.3 Caminho mais curto(Dijkstra).md",
+    "5. Algoritmos Avançados/1.2 Busca em Profundidade(BFS).md",
+    "5. Algoritmos Avançados/1.1 Busca em Largura(BFS).md",
+    "4. Estruturas de Dados Avançadas/2.2 Grafos direcionados e não direcionados.md",
+    "4. Estruturas de Dados Avançadas/3 Heaps.md",
+    "4. Estruturas de Dados Avançadas/3.1 Heaps máximos e mínimos.md",
+    "4. Estruturas de Dados Avançadas/2.1 Listas de adjacência-matriz de adjacência.md",
+    "4. Estruturas de Dados Avançadas/2 Grafos (Graphs).md",
+    "4. Estruturas de Dados Avançadas/1.2 Árvores balanceadas (AVL).md",
+    "4. Estruturas de Dados Avançadas/1.1 Árvores binárias de busca (BST).md",
+    "4. Estruturas de Dados Avançadas/1 Árvores (Trees).md",
+    "3. Algoritmos Básicos/1 Ordenação.md",
+    "3. Algoritmos Básicos/3.1 Chamadas recursiva.md",
+    "3. Algoritmos Básicos/3 Recursão.md",
+    "3. Algoritmos Básicos/2.2 Busca binária.md",
+    "3. Algoritmos Básicos/2.1 Busca linear.md",
+    "3. Algoritmos Básicos/2 Busca.md",
+    "1.md",
+    "3. Algoritmos Básicos/1.4 Merge Sort.md",
+    "8. Aprendizado Contínuo",
+    "7. Projetos Práticos",
+    "6. Prática de Problemas",
+    "5. Algoritmos Avançados",
+    "4. Estruturas de Dados Avançadas",
+    "3. Algoritmos Básicos",
+    "2. Estruturas de Dados Básicas",
+    "1. Fundamentos",
+    "Arquitetura de Software",
+    "Nova pasta"
+  ]
+}

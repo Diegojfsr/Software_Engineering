@@ -1,0 +1,78 @@
+{
+  "styles": {
+    "🟩 NodeJs": {
+      "textColor": "#038d49",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "🟨 JavaScript": {
+      "textColor": "#ab7721",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "🟦 TypeScript": {
+      "textColor": "#5190f5",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "🌐 NextJs": {
+      "textColor": "#2da6d2",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "⚛️ ReactJs": {
+      "textColor": "#c943f9",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "Fundamentos de Engenharia de Software": {
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#bf47ff"
+    },
+    "1. Fundamentos": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fb8e8e"
+    },
+    "2. Estruturas de Dados Básicas": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#f7599e"
+    },
+    "3. Algoritmos Básicos": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#d64af2"
+    },
+    "4. Estruturas de Dados Avançadas": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#941ff4"
+    },
+    "5. Algoritmos Avançados": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#2a9ff8"
+    },
+    "6. Prática de Problemas": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#62f9f7"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
