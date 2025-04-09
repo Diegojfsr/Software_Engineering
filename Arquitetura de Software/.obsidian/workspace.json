@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "☰ Arquitetura de Softwere.md",
+                "file": "1. Fundamentos de Arquitetura de Software/2 Entenda o papel da arquitetura no desenvolvimento de sistemas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☰ Arquitetura de Softwere"
+              "title": "2 Entenda o papel da arquitetura no desenvolvimento de sistemas"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "☰ Arquitetura de Softwere.md",
+                "file": "1. Fundamentos de Arquitetura de Software/2 Entenda o papel da arquitetura no desenvolvimento de sistemas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ☰ Arquitetura de Softwere"
+              "title": "Sumário de 2 Entenda o papel da arquitetura no desenvolvimento de sistemas"
             }
           },
           {
@@ -170,7 +170,6 @@
   "lastOpenFiles": [
     "7. Segurança na Arquitetura/7 OWASP.md",
     "7. Segurança na Arquitetura/6 Estratégias para mitigar vulnerabilidades.md",
-    "☰ Arquitetura de Softwere.md",
     "7. Segurança na Arquitetura/5 Criptografia de dados.md",
     "7. Segurança na Arquitetura/4 JWT.md",
     "7. Segurança na Arquitetura/3 OAuth.md",
@@ -193,6 +192,7 @@
     "5. Arquiteturas Baseadas em Dados/5 MongoDB.md",
     "5. Arquiteturas Baseadas em Dados/4 Bancos de dados NoSQL.md",
     "5. Arquiteturas Baseadas em Dados/3 PostgreSQL.md",
+    "5. Arquiteturas Baseadas em Dados/2 MySQL.md",
     "5. Arquiteturas Baseadas em Dados/1 Bancos de dados Relacionais.md",
     "9. Aprendizado Contínuo",
     "8. Projetos Práticos",

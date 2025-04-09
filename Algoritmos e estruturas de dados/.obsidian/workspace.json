@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Algoritmos Avançados/3.1 Como tomar decisões locais para alcançar soluções globais.md",
+                "file": "☰ Algoritmos e estruturas de dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Como tomar decisões locais para alcançar soluções globais"
+              "title": "☰ Algoritmos e estruturas de dados"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Algoritmos Avançados/3.1 Como tomar decisões locais para alcançar soluções globais.md",
+                "file": "☰ Algoritmos e estruturas de dados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 3.1 Como tomar decisões locais para alcançar soluções globais"
+              "title": "Sumário de ☰ Algoritmos e estruturas de dados"
             }
           },
           {
@@ -168,6 +168,7 @@
   },
   "active": "04c90b55876c98a0",
   "lastOpenFiles": [
+    "5. Algoritmos Avançados/3.1 Como tomar decisões locais para alcançar soluções globais.md",
     "5. Algoritmos Avançados/3 Algoritmos Gulosos.md",
     "5. Algoritmos Avançados/2.1 Como resolver problemas complexos dividindo-os em subproblemas menores.md",
     "5. Algoritmos Avançados/2 Programação Dinâmica.md",
@@ -193,7 +194,6 @@
     "3. Algoritmos Básicos/1.3 Insertion Sort.md",
     "3. Algoritmos Básicos/1.2 Selection Sort.md",
     "3. Algoritmos Básicos/1.1 Bubble Sort.md",
-    "3. Algoritmos Básicos/1 Ordenação.md",
     "8. Aprendizado Contínuo",
     "7. Projetos Práticos",
     "6. Prática de Problemas",
