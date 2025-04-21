@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "a8017cc2ee0e9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "1edb3f61536c4254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5752f268f9aa6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.Introduction to Software Engineering"
+            }
+          },
+          {
+            "id": "73cc43d45127f609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.Introduction to Software Engineering"
+            }
+          },
+          {
+            "id": "df3debe62069795a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Software Engineering Introduction/3.Classification of Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.Classification of Software"
+            }
+          },
+          {
+            "id": "bb254be8e0f7cb0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Software Engineering Introduction/4.Software Evolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.Software Evolution"
+            }
+          },
+          {
+            "id": "0bcddc7ccb3a862c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Software Engineering Introduction/5.What is the Need of Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.What is the Need of Software Engineering"
+            }
+          },
+          {
+            "id": "e40de98c6f5bdc37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.Introduction to Software Engineering"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95edef668b657176",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd926b8554709dde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02efb55613b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fcf5211b07f910d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2546ad1fa6d4380f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "right": {
+    "id": "1b77f82fc4207f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9588303afd4cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29bd78191eb249e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1.Introduction to Software Engineering"
+            }
+          },
+          {
+            "id": "dbe9e1e4c0cb097a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React Hooks/1️⃣ Fundamentos dos Hooks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1️⃣ Fundamentos dos Hooks"
+            }
+          },
+          {
+            "id": "433c1db50f655ade",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8683bbb36e1857f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e40de98c6f5bdc37",
+  "lastOpenFiles": [
+    "1.Software Engineering Introduction/6.What does a Software Engineer Do.md",
+    "1.Software Engineering Introduction/5.What is the Need of Software Engineering.md",
+    "1.Software Engineering Introduction/4.Software Evolution.md",
+    "1.Software Engineering Introduction/3.Classification of Software.md",
+    "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+    "1.Software Engineering Introduction/2.Introduction to Software Development.md",
+    "14.Software Engineering Interview Questions",
+    "13.Difference Between",
+    "12.Software Maintenance",
+    "11.Software Testing and Debugging",
+    "10.Software Reliability",
+    "9.Software Design",
+    "8.Software Quality",
+    "7.Software Configuration",
+    "6.Software Requirements",
+    "5.Software Metrices",
+    "8.Next.js Projects/8.Music Player App with Next.js.md",
+    "8.Next.js Projects/9.Recipe Generator using Next.js.md",
+    "8.Next.js Projects/7.URL Shortener Service with Next.js.md",
+    "8.Next.js Projects/6.Social Networking Platform using Next.js.md",
+    "8.Next.js Projects/5.E-commerce Dashboard with Next.js.md",
+    "8.Next.js Projects/4.Todo App using Next.js.md",
+    "8.Next.js Projects/3.Blogging Platform using Next JS.md",
+    "8.Next.js Projects/2.Create a Quiz App with Next js.md",
+    "8.Next.js Projects/1.Task Reminder App with Next.js.md",
+    "7.Next.js Interview Prepration/2.Next.js Exercises, Practice Questions and Solutions..md",
+    "7.Next.js Interview Prepration/1.Next.js Interview Questions and Answer (2024).md",
+    "6.Advanced Topis/8.How to Catch All Routes in Next.js.md",
+    "6.Advanced Topis/7.How to Reset Next.js Development Cache.md",
+    "6.Advanced Topis/9.How to Reset Next.js Development Cache.md",
+    "6.Advanced Topis/6.Next.js Optional catch all routes.md",
+    "6.Advanced Topis/5.What is SSR in Next.js.md",
+    "6.Advanced Topis/4.Next.js Custom Server.md",
+    "6.Advanced Topis/3.Next.js Nested Routes.md",
+    "6.Advanced Topis/2.How to ignore ESLint in Next.js.md",
+    "6.Advanced Topis/1.Migrate from Create React App to Next.js.md"
+  ]
+}
