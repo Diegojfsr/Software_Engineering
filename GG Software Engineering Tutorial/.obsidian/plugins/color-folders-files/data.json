@@ -244,6 +244,13 @@
       "applyToFiles": true,
       "textColor": "#ffffff",
       "backgroundColor": "#f4a667"
+    },
+    "3.Software Development Architecture": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b6ef4e"
     }
   },
   "presets": {},

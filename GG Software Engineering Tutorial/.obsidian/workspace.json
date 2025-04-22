@@ -4,165 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b0ca68e3937a75",
+        "id": "ef79ab75eed89974",
         "type": "tabs",
         "children": [
           {
-            "id": "e181871d1e391531",
+            "id": "9bfbf0cc1eb73277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Software Development Models/1.Classical Waterfall Model.md",
+                "file": "3.Software Development Architecture/1.User Interface Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Classical Waterfall Model"
+              "title": "1.User Interface Design"
             }
           },
           {
-            "id": "9079d59a92a9af09",
+            "id": "e23c7bb58e223c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Software Development Models/2.Iterative Waterfall Model.md",
+                "file": "3.Software Development Architecture/2.Coupling and Cohesion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Iterative Waterfall Model"
+              "title": "2.Coupling and Cohesion"
             }
           },
           {
-            "id": "b3de0eda68e8451c",
+            "id": "2b7a016f02c93baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Software Development Models/3.Spiral Model.md",
+                "file": "3.Software Development Architecture/3.Information System Life Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Spiral Model"
+              "title": "3.Information System Life Cycle"
             }
           },
           {
-            "id": "b360d6a4e13923fd",
+            "id": "f8222a11837dfc81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Software Development Models/4.Incremental process model.md",
+                "file": "3.Software Development Architecture/4.Database application system life cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Incremental process model"
+              "title": "4.Database application system life cycle"
             }
           },
           {
-            "id": "83f784e19384dc48",
+            "id": "d61fd7709ac0be77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Software Development Models/5.Rapid application development model(RAD).md",
+                "file": "3.Software Development Architecture/5.Pham-Nordmann-Zhang Model (PNZ model).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.Rapid application development model(RAD)"
+              "title": "5.Pham-Nordmann-Zhang Model (PNZ model)"
             }
           },
           {
-            "id": "46539d2e8b625ee2",
+            "id": "9435d90b017bc063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Software Development Models/6.RAD Model vs Traditional SDLC.md",
+                "file": "3.Software Development Architecture/6.Schick-Wolverton software reliability model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.RAD Model vs Traditional SDLC"
-            }
-          },
-          {
-            "id": "05229508028c7228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Software Development Models/7.Agile Development Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.Agile Development Models"
-            }
-          },
-          {
-            "id": "c3094be639b7755f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Software Development Models/8.Agile Software Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.Agile Software Development"
-            }
-          },
-          {
-            "id": "18a2772a2c9b711f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Software Development Models/9.Extreme Programming (XP).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9.Extreme Programming (XP)"
-            }
-          },
-          {
-            "id": "ac3f4fd161e7b5b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Software Development Models/10.SDLC V-Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.SDLC V-Model"
-            }
-          },
-          {
-            "id": "ca96958aa9e565c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Software Development Models/1.Classical Waterfall Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.Classical Waterfall Model"
+              "title": "6.Schick-Wolverton software reliability model"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -235,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Software Development Models/1.Classical Waterfall Model.md",
+                "file": "3.Software Development Architecture/6.Schick-Wolverton software reliability model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Classical Waterfall Model"
+              "title": "Sumário de 6.Schick-Wolverton software reliability model"
             }
           },
           {
@@ -307,8 +237,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ca96958aa9e565c8",
+  "active": "9435d90b017bc063",
   "lastOpenFiles": [
+    "3.Software Development Architecture/5.Pham-Nordmann-Zhang Model (PNZ model).md",
+    "3.Software Development Architecture/6.Schick-Wolverton software reliability model.md",
+    "3.Software Development Architecture/4.Database application system life cycle.md",
+    "3.Software Development Architecture/3.Information System Life Cycle.md",
+    "3.Software Development Architecture/2.Coupling and Cohesion.md",
+    "3.Software Development Architecture/1.User Interface Design.md",
+    "1.Software Engineering Introduction/2.Introduction to Software Development.md",
+    "1.Software Engineering Introduction/3.Classification of Software.md",
+    "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+    "2.Software Development Models/1.Classical Waterfall Model.md",
     "2.Software Development Models/11.Comparison of different life cycle models.md",
     "2.Software Development Models/10.SDLC V-Model.md",
     "2.Software Development Models/9.Extreme Programming (XP).md",
@@ -319,13 +259,9 @@
     "2.Software Development Models/4.Incremental process model.md",
     "2.Software Development Models/3.Spiral Model.md",
     "2.Software Development Models/2.Iterative Waterfall Model.md",
-    "2.Software Development Models/1.Classical Waterfall Model.md",
-    "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
     "1.Software Engineering Introduction/6.What does a Software Engineer Do.md",
     "1.Software Engineering Introduction/5.What is the Need of Software Engineering.md",
     "1.Software Engineering Introduction/4.Software Evolution.md",
-    "1.Software Engineering Introduction/3.Classification of Software.md",
-    "1.Software Engineering Introduction/2.Introduction to Software Development.md",
     "14.Software Engineering Interview Questions",
     "13.Difference Between",
     "12.Software Maintenance",
@@ -338,12 +274,6 @@
     "5.Software Metrices",
     "8.Next.js Projects/8.Music Player App with Next.js.md",
     "8.Next.js Projects/9.Recipe Generator using Next.js.md",
-    "8.Next.js Projects/7.URL Shortener Service with Next.js.md",
-    "8.Next.js Projects/6.Social Networking Platform using Next.js.md",
-    "8.Next.js Projects/5.E-commerce Dashboard with Next.js.md",
-    "8.Next.js Projects/4.Todo App using Next.js.md",
-    "8.Next.js Projects/3.Blogging Platform using Next JS.md",
-    "8.Next.js Projects/2.Create a Quiz App with Next js.md",
-    "8.Next.js Projects/1.Task Reminder App with Next.js.md"
+    "8.Next.js Projects/7.URL Shortener Service with Next.js.md"
   ]
 }
