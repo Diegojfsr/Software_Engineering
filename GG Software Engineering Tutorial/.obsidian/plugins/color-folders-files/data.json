@@ -237,6 +237,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#daa616"
+    },
+    "2.Software Development Models": {
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#f4a667"
     }
   },
   "presets": {},

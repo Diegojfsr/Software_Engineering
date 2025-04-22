@@ -4,95 +4,165 @@
     "type": "split",
     "children": [
       {
-        "id": "1edb3f61536c4254",
+        "id": "b2b0ca68e3937a75",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5752f268f9aa6d",
+            "id": "e181871d1e391531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+                "file": "2.Software Development Models/1.Classical Waterfall Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Introduction to Software Engineering"
+              "title": "1.Classical Waterfall Model"
             }
           },
           {
-            "id": "73cc43d45127f609",
+            "id": "9079d59a92a9af09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+                "file": "2.Software Development Models/2.Iterative Waterfall Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Introduction to Software Engineering"
+              "title": "2.Iterative Waterfall Model"
             }
           },
           {
-            "id": "df3debe62069795a",
+            "id": "b3de0eda68e8451c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Software Engineering Introduction/3.Classification of Software.md",
+                "file": "2.Software Development Models/3.Spiral Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Classification of Software"
+              "title": "3.Spiral Model"
             }
           },
           {
-            "id": "bb254be8e0f7cb0a",
+            "id": "b360d6a4e13923fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Software Engineering Introduction/4.Software Evolution.md",
+                "file": "2.Software Development Models/4.Incremental process model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Software Evolution"
+              "title": "4.Incremental process model"
             }
           },
           {
-            "id": "0bcddc7ccb3a862c",
+            "id": "83f784e19384dc48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Software Engineering Introduction/5.What is the Need of Software Engineering.md",
+                "file": "2.Software Development Models/5.Rapid application development model(RAD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.What is the Need of Software Engineering"
+              "title": "5.Rapid application development model(RAD)"
             }
           },
           {
-            "id": "e40de98c6f5bdc37",
+            "id": "46539d2e8b625ee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+                "file": "2.Software Development Models/6.RAD Model vs Traditional SDLC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Introduction to Software Engineering"
+              "title": "6.RAD Model vs Traditional SDLC"
+            }
+          },
+          {
+            "id": "05229508028c7228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Software Development Models/7.Agile Development Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.Agile Development Models"
+            }
+          },
+          {
+            "id": "c3094be639b7755f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Software Development Models/8.Agile Software Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.Agile Software Development"
+            }
+          },
+          {
+            "id": "18a2772a2c9b711f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Software Development Models/9.Extreme Programming (XP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9.Extreme Programming (XP)"
+            }
+          },
+          {
+            "id": "ac3f4fd161e7b5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Software Development Models/10.SDLC V-Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.SDLC V-Model"
+            }
+          },
+          {
+            "id": "ca96958aa9e565c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Software Development Models/1.Classical Waterfall Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.Classical Waterfall Model"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -112,7 +182,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -165,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
+                "file": "2.Software Development Models/1.Classical Waterfall Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Introduction to Software Engineering"
+              "title": "Sumário de 1.Classical Waterfall Model"
             }
           },
           {
@@ -237,13 +307,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e40de98c6f5bdc37",
+  "active": "ca96958aa9e565c8",
   "lastOpenFiles": [
+    "2.Software Development Models/11.Comparison of different life cycle models.md",
+    "2.Software Development Models/10.SDLC V-Model.md",
+    "2.Software Development Models/9.Extreme Programming (XP).md",
+    "2.Software Development Models/8.Agile Software Development.md",
+    "2.Software Development Models/7.Agile Development Models.md",
+    "2.Software Development Models/6.RAD Model vs Traditional SDLC.md",
+    "2.Software Development Models/5.Rapid application development model(RAD).md",
+    "2.Software Development Models/4.Incremental process model.md",
+    "2.Software Development Models/3.Spiral Model.md",
+    "2.Software Development Models/2.Iterative Waterfall Model.md",
+    "2.Software Development Models/1.Classical Waterfall Model.md",
+    "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
     "1.Software Engineering Introduction/6.What does a Software Engineer Do.md",
     "1.Software Engineering Introduction/5.What is the Need of Software Engineering.md",
     "1.Software Engineering Introduction/4.Software Evolution.md",
     "1.Software Engineering Introduction/3.Classification of Software.md",
-    "1.Software Engineering Introduction/1.Introduction to Software Engineering.md",
     "1.Software Engineering Introduction/2.Introduction to Software Development.md",
     "14.Software Engineering Interview Questions",
     "13.Difference Between",
@@ -263,17 +344,6 @@
     "8.Next.js Projects/4.Todo App using Next.js.md",
     "8.Next.js Projects/3.Blogging Platform using Next JS.md",
     "8.Next.js Projects/2.Create a Quiz App with Next js.md",
-    "8.Next.js Projects/1.Task Reminder App with Next.js.md",
-    "7.Next.js Interview Prepration/2.Next.js Exercises, Practice Questions and Solutions..md",
-    "7.Next.js Interview Prepration/1.Next.js Interview Questions and Answer (2024).md",
-    "6.Advanced Topis/8.How to Catch All Routes in Next.js.md",
-    "6.Advanced Topis/7.How to Reset Next.js Development Cache.md",
-    "6.Advanced Topis/9.How to Reset Next.js Development Cache.md",
-    "6.Advanced Topis/6.Next.js Optional catch all routes.md",
-    "6.Advanced Topis/5.What is SSR in Next.js.md",
-    "6.Advanced Topis/4.Next.js Custom Server.md",
-    "6.Advanced Topis/3.Next.js Nested Routes.md",
-    "6.Advanced Topis/2.How to ignore ESLint in Next.js.md",
-    "6.Advanced Topis/1.Migrate from Create React App to Next.js.md"
+    "8.Next.js Projects/1.Task Reminder App with Next.js.md"
   ]
 }
