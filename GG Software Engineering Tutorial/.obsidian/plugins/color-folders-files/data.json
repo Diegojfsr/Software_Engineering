@@ -251,6 +251,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#b6ef4e"
+    },
+    "4.Software Project Management(SPM)": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#f0dc5c"
     }
   },
   "presets": {},
