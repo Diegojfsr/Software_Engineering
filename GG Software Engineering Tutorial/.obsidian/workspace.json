@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9b1f9fdb3b7b632e",
+        "id": "ea034e00478d513c",
         "type": "tabs",
         "children": [
           {
-            "id": "517754094b40c797",
+            "id": "d68af226f5467ccd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Software Metrices/1.Software Measurement and Metrics.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.Software Measurement and Metrics"
-            }
-          },
-          {
-            "id": "bd605976bb85fcfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Software Metrices/2.People Metrics and Process Metrics in Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.People Metrics and Process Metrics in Software Engineering"
-            }
-          },
-          {
-            "id": "ff85dfcab90ec28d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Software Metrices/3.Halsteads Software Metrics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.Halsteads Software Metrics"
-            }
-          },
-          {
-            "id": "11ee472753440d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Software Metrices/4.Cyclomatic Complexity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.Cyclomatic Complexity"
-            }
-          },
-          {
-            "id": "d502c568c337155e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Software Metrices/5.Functional Point (FP) Analysis – Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.Functional Point (FP) Analysis – Software Engineering"
-            }
-          },
-          {
-            "id": "1c71258fc2e0b88e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Software Metrices/6.Lines of Code (LOC) in Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.Lines of Code (LOC) in Software Engineering"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 331.5
   },
   "right": {
     "id": "1b77f82fc4207f64",
@@ -165,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Software Metrices/6.Lines of Code (LOC) in Software Engineering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 6.Lines of Code (LOC) in Software Engineering"
+              "title": "Sumário"
             }
           },
           {
@@ -237,10 +161,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1c71258fc2e0b88e",
+  "active": "d68af226f5467ccd",
   "lastOpenFiles": [
-    "5.Software Metrices/5.Functional Point (FP) Analysis – Software Engineering.md",
+    "6.Software Requirements/6.Challenges in eliciting requirements.md",
+    "6.Software Requirements/5.Requirements Elicitation.md",
+    "6.Software Requirements/4.Quality Characteristics of a good SRS.md",
+    "6.Software Requirements/3.How to write a good SRS for your Project.md",
+    "6.Software Requirements/2.Classification of Software Requirements.md",
+    "6.Software Requirements/1.Requirements Engineering Process.md",
     "5.Software Metrices/6.Lines of Code (LOC) in Software Engineering.md",
+    "5.Software Metrices/5.Functional Point (FP) Analysis – Software Engineering.md",
     "5.Software Metrices/4.Cyclomatic Complexity.md",
     "5.Software Metrices/3.Halsteads Software Metrics.md",
     "5.Software Metrices/2.People Metrics and Process Metrics in Software Engineering.md",
@@ -259,12 +189,6 @@
     "4.Software Project Management(SPM)/8.Integrating Risk Management in SDLC Set 3.md",
     "4.Software Project Management(SPM)/7.Integrating Risk Management in SDLC Set 2.md",
     "4.Software Project Management(SPM)/6.Integrating Risk Management in SDLC Set 1.md",
-    "4.Software Project Management(SPM)/5.Capability maturity model (CMM).md",
-    "4.Software Project Management(SPM)/4.COCOMO Model.md",
-    "4.Software Project Management(SPM)/3.System configuration management.md",
-    "4.Software Project Management(SPM)/2.Project size estimation techniques.md",
-    "3.Software Development Architecture/6.Schick-Wolverton software reliability model.md",
-    "3.Software Development Architecture/5.Pham-Nordmann-Zhang Model (PNZ model).md",
     "14.Software Engineering Interview Questions",
     "13.Difference Between",
     "12.Software Maintenance",

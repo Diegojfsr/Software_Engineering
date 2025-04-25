@@ -265,6 +265,13 @@
       "applyToFiles": true,
       "textColor": "#fafafa",
       "backgroundColor": "#2fc3f4"
+    },
+    "6.Software Requirements": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f2f2f2",
+      "backgroundColor": "#c03030"
     }
   },
   "presets": {},
