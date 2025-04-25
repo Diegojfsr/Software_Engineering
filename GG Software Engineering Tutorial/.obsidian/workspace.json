@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d68af226f5467ccd",
+            "id": "c9bbdffc3385ccd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7.Software Configuration/4.Project Monitoring & Control.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "4.Project Monitoring & Control"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "7.Software Configuration/4.Project Monitoring & Control.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 4.Project Monitoring & Control"
             }
           },
           {
@@ -161,8 +166,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d68af226f5467ccd",
+  "active": "c9bbdffc3385ccd9",
   "lastOpenFiles": [
+    "7.Software Configuration/1.Software Configuration Management.md",
+    "7.Software Configuration/4.Project Monitoring & Control.md",
+    "7.Software Configuration/2.Objectives of Software Configuration Management.md",
+    "7.Software Configuration/3.Software Quality Assurance.md",
     "6.Software Requirements/6.Challenges in eliciting requirements.md",
     "6.Software Requirements/5.Requirements Elicitation.md",
     "6.Software Requirements/4.Quality Characteristics of a good SRS.md",
@@ -185,10 +194,6 @@
     "4.Software Project Management(SPM)/12.Reliability Growth Models.md",
     "4.Software Project Management(SPM)/11.Quasi renewal processes.md",
     "4.Software Project Management(SPM)/10.Software Project Management Complexities.md",
-    "4.Software Project Management(SPM)/9.Role and Responsibilities of a software Project Manager.md",
-    "4.Software Project Management(SPM)/8.Integrating Risk Management in SDLC Set 3.md",
-    "4.Software Project Management(SPM)/7.Integrating Risk Management in SDLC Set 2.md",
-    "4.Software Project Management(SPM)/6.Integrating Risk Management in SDLC Set 1.md",
     "14.Software Engineering Interview Questions",
     "13.Difference Between",
     "12.Software Maintenance",

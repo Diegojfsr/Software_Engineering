@@ -272,6 +272,13 @@
       "isBold": true,
       "textColor": "#f2f2f2",
       "backgroundColor": "#c03030"
+    },
+    "7.Software Configuration": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#e466f5"
     }
   },
   "presets": {},
