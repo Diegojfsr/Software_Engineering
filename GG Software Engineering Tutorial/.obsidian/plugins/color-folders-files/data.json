@@ -286,6 +286,13 @@
       "isBold": true,
       "textColor": "#f7f7f7",
       "backgroundColor": "#25d483"
+    },
+    "9.Software Design": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#d6ad3d"
     }
   },
   "presets": {},
