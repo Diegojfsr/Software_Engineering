@@ -279,6 +279,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#e466f5"
+    },
+    "8.Software Quality": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7f7f7",
+      "backgroundColor": "#25d483"
     }
   },
   "presets": {},
