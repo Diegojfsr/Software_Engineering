@@ -293,6 +293,13 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#d6ad3d"
+    },
+    "10.Software Reliability": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#434de5"
     }
   },
   "presets": {},
