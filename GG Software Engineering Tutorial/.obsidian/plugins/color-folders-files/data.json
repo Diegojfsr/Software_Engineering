@@ -307,6 +307,20 @@
       "isBold": true,
       "textColor": "#f7f7f7",
       "backgroundColor": "#248f3e"
+    },
+    "12.Software Maintenance": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b1cf44"
+    },
+    "13.Difference Between": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#b29815"
     }
   },
   "presets": {},
