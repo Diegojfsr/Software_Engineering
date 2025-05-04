@@ -1,0 +1,335 @@
+{
+  "styles": {
+    "🟩 NodeJs": {
+      "textColor": "#038d49",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "🟨 JavaScript": {
+      "textColor": "#ab7721",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "🟦 TypeScript": {
+      "textColor": "#5190f5",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "🌐 NextJs": {
+      "textColor": "#2da6d2",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "⚛️ ReactJs": {
+      "textColor": "#c943f9",
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true
+    },
+    "1.Node.js Introduction": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#2bf773"
+    },
+    "2.Node.js Modules": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#49fdc1"
+    },
+    "3.npm": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#53fde9"
+    },
+    "4.Error Handling": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#29a8c2"
+    },
+    "5.Async Programming": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7ff80"
+    },
+    "6.Working with Files": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#99ffcf"
+    },
+    "7.Command Line Applications": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#8eb8fb"
+    },
+    "8.Building & Consuming APIs": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#d184f5"
+    },
+    "9.Monitor Changes Dev": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f4b4f8"
+    },
+    "10.Template Engines": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f556d3"
+    },
+    "11.Working With Databases": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f46c7a"
+    },
+    "12.Testing": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f41f1f"
+    },
+    "13.Logging": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffb3b3"
+    },
+    "14.Keep  app running": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f9e82f"
+    },
+    "15.Threads": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#beff8a"
+    },
+    "16.Streams": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#affdcb"
+    },
+    "17.Debugging": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#58a8fd"
+    },
+    "18.Common Built in Modules": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ff8080"
+    },
+    "1. React Basics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#7b61ff"
+    },
+    "2. React Hooks": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#44a4fd"
+    },
+    "3. React DOM Events": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#1ce2fd"
+    },
+    "4. Lifecycle of Components": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#13ddc5"
+    },
+    "5. Routing in React": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#62f9b8"
+    },
+    "6. Important React Packages": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#89ff57"
+    },
+    "1.Next.js Basic": {
+      "backgroundColor": "#0f8ceb",
+      "textColor": "#fcfcfc",
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "2.Next.js Routing": {
+      "isBold": true,
+      "isItalic": false,
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "backgroundColor": "#70c1ff",
+      "textColor": "#ffffff"
+    },
+    "3.Next.js Functions": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "backgroundColor": "#d666f5",
+      "textColor": "#f7f7f7"
+    },
+    "4.Next.js Features": {
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "backgroundColor": "#ac23d1",
+      "textColor": "#ffffff"
+    },
+    "5.Practicle Code Examples": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#e55dcc"
+    },
+    "6.Advanced Topis": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#f47b99"
+    },
+    "7.Next.js Interview Prepration": {
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#f7ab78",
+      "isBold": true,
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "8.Next.js Projects": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#f5db56"
+    },
+    "1.Software Engineering Introduction": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#daa616"
+    },
+    "2.Software Development Models": {
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#f4a667"
+    },
+    "3.Software Development Architecture": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b6ef4e"
+    },
+    "4.Software Project Management(SPM)": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#f0dc5c"
+    },
+    "5.Software Metrices": {
+      "isBold": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#2fc3f4"
+    },
+    "6.Software Requirements": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f2f2f2",
+      "backgroundColor": "#c03030"
+    },
+    "7.Software Configuration": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#e466f5"
+    },
+    "8.Software Quality": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7f7f7",
+      "backgroundColor": "#25d483"
+    },
+    "9.Software Design": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#d6ad3d"
+    },
+    "10.Software Reliability": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#434de5"
+    },
+    "11.Software Testing and Debugging": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f7f7f7",
+      "backgroundColor": "#248f3e"
+    },
+    "12.Software Maintenance": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#b1cf44"
+    },
+    "13.Difference Between": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#b29815"
+    },
+    "1.Basics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#fd3a3a"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

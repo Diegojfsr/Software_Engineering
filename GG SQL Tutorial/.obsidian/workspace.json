@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "461c563ff261ba7a",
+        "id": "6b1fa9ed00279ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "f026c34427503054",
+            "id": "be6b2770837e8110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.Software Engineering Interview Questions/1.Software Engineering Interview Questions.md",
+                "file": "1.Basics/1.Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Software Engineering Interview Questions"
+              "title": "1.Introduction"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14.Software Engineering Interview Questions/1.Software Engineering Interview Questions.md",
+                "file": "1.Basics/1.Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Software Engineering Interview Questions"
+              "title": "Sumário de 1.Introduction"
             }
           },
           {
@@ -166,43 +166,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f026c34427503054",
+  "active": "be6b2770837e8110",
   "lastOpenFiles": [
-    "13.Difference Between/1.Waterfall model vs Incremental model.md",
-    "14.Software Engineering Interview Questions/1.Software Engineering Interview Questions.md",
-    "13.Difference Between/14.Agile Model vs V-Model.md",
-    "13.Difference Between/13.Frontend Testing vs Backend Testing.md",
-    "13.Difference Between/12.Load Testing vs Stress Testing.md",
-    "13.Difference Between/11.Unit Testing vs System Testing.md",
-    "13.Difference Between/10.RAD vs Waterfall.md",
-    "13.Difference Between/9.Waterfall Model vs Spiral Model.md",
-    "13.Difference Between/8.Functional vs Non-functional Testing.md",
-    "13.Difference Between/7.Testing and Debugging.md",
-    "13.Difference Between/6.Alpha Testing vs Beta Testing.md",
-    "13.Difference Between/5.Cohesion vs Coupling.md",
-    "13.Difference Between/4.Sanity Testing vs Smoke Testing.md",
-    "13.Difference Between/3.Manual testing vs Automation testing.md",
-    "13.Difference Between/2.v-model vs waterfall model.md",
-    "12.Software Maintenance/2.Cost and efforts of software maintenance.md",
-    "12.Software Maintenance/1.Software Maintenance.md",
-    "11.Software Testing and Debugging/1.Software Testing Tutorial.md",
-    "11.Software Testing and Debugging/6.Debugging.md",
-    "11.Software Testing and Debugging/7.Selenium An Automation tool.md",
-    "11.Software Testing and Debugging/8.Integration Testing.md",
-    "11.Software Testing and Debugging/5.White box Testing.md",
-    "11.Software Testing and Debugging/4.Black box testing.md",
-    "11.Software Testing and Debugging/3.Testing Guidelines.md",
-    "11.Software Testing and Debugging/2.Seven Principles of software testing.md",
-    "10.Software Reliability/1.Software Reliability.md",
-    "14.Software Engineering Interview Questions",
-    "13.Difference Between",
-    "12.Software Maintenance",
-    "11.Software Testing and Debugging",
-    "10.Software Reliability",
-    "9.Software Design",
-    "8.Software Quality",
-    "7.Software Configuration",
-    "6.Software Requirements",
-    "5.Software Metrices"
+    "1.Basics/4.Commands.md",
+    "1.Basics/3.Operators.md",
+    "1.Basics/2.Data Types.md",
+    "1.Basics/1.Introduction.md",
+    "19.Database Connectivity/3.ODBC (Open Database Connectivity).md",
+    "19.Database Connectivity/2.ODM (Object-Document Mapping).md",
+    "19.Database Connectivity/1.ORM (Object-Relational Mapping).md",
+    "18.Projects/10.Movie Reservation System.md",
+    "18.Projects/9.E-commerce Database.md",
+    "18.Projects/8.URL Shortening Service.md",
+    "18.Projects/7.To-Do List.md",
+    "18.Projects/6.Personal Blogging Platform Mastering Database Architecture and CRUD Operations.md",
+    "18.Projects/5.Library Management system.md",
+    "18.Projects/4.Healthcare Sysytem.md",
+    "18.Projects/3.Music Store Data Analysis.md",
+    "18.Projects/2.Walmert Sales Data Analysis.md",
+    "18.Projects/1.Ola SQL Data Analysis.md",
+    "17.Database Security/6.How to Restore SQL Server Database From Backup.md",
+    "17.Database Security/5.Backup.md",
+    "17.Database Security/4.Database Recovery Techniques in DBMS.md",
+    "17.Database Security/3.Data Encryption.md",
+    "17.Database Security/2.Types of SQL Injection.md",
+    "17.Database Security/1.Injection.md",
+    "16.Database Design and Modeling/10.Database Design.md",
+    "16.Database Design and Modeling/9.Denormalization in Databases.md",
+    "16.Database Design and Modeling/8.Normal Forms in DBMS.md",
+    "20.Jobs and Opportunities",
+    "19.Database Connectivity",
+    "18.Projects",
+    "17.Database Security",
+    "16.Database Design and Modeling",
+    "15.Exercises, Interview Questions & Cheat Sheet",
+    "14.Miscellaneous Topics",
+    "13.Subquery",
+    "12.Indexes",
+    "11.Views"
   ]
 }
