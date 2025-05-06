@@ -342,6 +342,13 @@
       "isBold": true,
       "textColor": "#f5f5f5",
       "backgroundColor": "#ebcd37"
+    },
+    "4.CRUD Operations": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#57b545"
     }
   },
   "presets": {},
