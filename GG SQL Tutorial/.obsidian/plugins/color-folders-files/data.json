@@ -335,6 +335,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#f38d39"
+    },
+    "3.Tables": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#ebcd37"
     }
   },
   "presets": {},
