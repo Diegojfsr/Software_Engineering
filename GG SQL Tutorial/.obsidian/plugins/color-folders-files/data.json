@@ -327,7 +327,14 @@
       "applyToSubfolders": true,
       "isBold": true,
       "textColor": "#ffffff",
-      "backgroundColor": "#fd3a3a"
+      "backgroundColor": "#f43e3e"
+    },
+    "2.Create Database": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#f38d39"
     }
   },
   "presets": {},

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1fa9ed00279ec1",
+        "id": "6e310ed36f4cc762",
         "type": "tabs",
         "children": [
           {
-            "id": "be6b2770837e8110",
+            "id": "5f187c873a84e012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Basics/1.Introduction.md",
+                "file": "2.Create Database/4.SELECT Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Introduction"
+              "title": "4.SELECT Database"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Basics/1.Introduction.md",
+                "file": "2.Create Database/4.SELECT Database.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Introduction"
+              "title": "Sumário de 4.SELECT Database"
             }
           },
           {
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +166,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "be6b2770837e8110",
+  "active": "5f187c873a84e012",
   "lastOpenFiles": [
+    "2.Create Database/3.RENAME Database.md",
+    "2.Create Database/2.DROP Database.md",
+    "2.Create Database/1.CREATE Database.md",
+    "1.Basics/1.Introduction.md",
+    "GPS - GERENCIAMENTO DE PROCESSO SELETIVO.md",
+    "2.Create Database/4.SELECT Database.md",
     "1.Basics/4.Commands.md",
     "1.Basics/3.Operators.md",
     "1.Basics/2.Data Types.md",
-    "1.Basics/1.Introduction.md",
     "19.Database Connectivity/3.ODBC (Open Database Connectivity).md",
     "19.Database Connectivity/2.ODM (Object-Document Mapping).md",
     "19.Database Connectivity/1.ORM (Object-Relational Mapping).md",
@@ -189,11 +194,6 @@
     "17.Database Security/5.Backup.md",
     "17.Database Security/4.Database Recovery Techniques in DBMS.md",
     "17.Database Security/3.Data Encryption.md",
-    "17.Database Security/2.Types of SQL Injection.md",
-    "17.Database Security/1.Injection.md",
-    "16.Database Design and Modeling/10.Database Design.md",
-    "16.Database Design and Modeling/9.Denormalization in Databases.md",
-    "16.Database Design and Modeling/8.Normal Forms in DBMS.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",
