@@ -356,6 +356,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#5badc8"
+    },
+    "6.Operators": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#5b43d0"
     }
   },
   "presets": {},

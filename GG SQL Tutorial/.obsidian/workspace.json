@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.Clauses/1.WHERE Clause.md",
+                "file": "6.Operators/1.AND Operator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.WHERE Clause"
+              "title": "1.AND Operator"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.Clauses/1.WHERE Clause.md",
+                "file": "6.Operators/1.AND Operator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.WHERE Clause"
+              "title": "Sumário de 1.AND Operator"
             }
           },
           {
@@ -168,7 +168,25 @@
   },
   "active": "5008dc4bbc8637ee",
   "lastOpenFiles": [
+    "6.Operators/16.CASE Operator.md",
+    "6.Operators/15.EXISTS Operator.md",
+    "6.Operators/14.INTERSECT Operator.md",
+    "6.Operators/13.ALL and ANY.md",
+    "6.Operators/12.BETWEEN Operator.md",
+    "6.Operators/11.EXCEPT Operator.md",
+    "6.Operators/10.UNION ALL Operator.md",
+    "6.Operators/9.UNION Operator.md",
+    "6.Operators/8.IS NULL Operator.md",
+    "6.Operators/7.NOT EQUAL Operator.md",
+    "6.Operators/6.NOT Operator.md",
+    "6.Operators/5.IN Operator.md",
+    "6.Operators/4.LIKE Operator.md",
+    "6.Operators/3.Logical Operators.md",
+    "6.Operators/2.OR Operator.md",
+    "6.Operators/1.AND Operator.md",
     "5.Clauses/9.Aliases.md",
+    "5.Clauses/1.WHERE Clause.md",
+    "1.Basics/1.Introduction.md",
     "5.Clauses/8.FETCH.md",
     "5.Clauses/7.Distinct Clause.md",
     "5.Clauses/6.LIMIT Clause.md",
@@ -176,24 +194,6 @@
     "5.Clauses/4.ORDER By Clause.md",
     "5.Clauses/3.HAVING Clause.md",
     "5.Clauses/2.WITH Clause.md",
-    "5.Clauses/1.WHERE Clause.md",
-    "4.CRUD Operations/6.DELETE Duplicate Rows.md",
-    "4.CRUD Operations/5.DELETE Statement.md",
-    "4.CRUD Operations/4.UPDATE Statement.md",
-    "4.CRUD Operations/3.INSERT Multiple Rows.md",
-    "4.CRUD Operations/2.INSERT INTO.md",
-    "4.CRUD Operations/1.SELECT Statement.md",
-    "2.Create Database/4.SELECT Database.md",
-    "2.Create Database/3.RENAME Database.md",
-    "2.Create Database/2.DROP Database.md",
-    "2.Create Database/1.CREATE Database.md",
-    "3.Tables/7.ALTER TABLE.md",
-    "3.Tables/6.TEMP TABLE.md",
-    "3.Tables/5.COPY TABLE.md",
-    "3.Tables/4.TRUNCATE TABLE.md",
-    "3.Tables/3.RENAME TABLE.md",
-    "3.Tables/2.DROP TABLE.md",
-    "3.Tables/1.CREATE TABLE.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",
