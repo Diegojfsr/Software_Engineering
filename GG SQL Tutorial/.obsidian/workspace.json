@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8.Data Constraints/1.NOT NULL Constraints.md",
+                "file": "9.Joining Data/1.JOIN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.NOT NULL Constraints"
+              "title": "1.JOIN"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8.Data Constraints/1.NOT NULL Constraints.md",
+                "file": "9.Joining Data/1.JOIN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.NOT NULL Constraints"
+              "title": "Sumário de 1.JOIN"
             }
           },
           {
@@ -168,6 +168,17 @@
   },
   "active": "5008dc4bbc8637ee",
   "lastOpenFiles": [
+    "9.Joining Data/10.Recursive Join.md",
+    "9.Joining Data/9.DELETE JOIN.md",
+    "9.Joining Data/8.UPDATE with JOIN.md",
+    "9.Joining Data/7.Self Join.md",
+    "9.Joining Data/6.Cross Join.md",
+    "9.Joining Data/5.Full Join.md",
+    "9.Joining Data/4.Right Join.md",
+    "9.Joining Data/3.Left Join.md",
+    "9.Joining Data/2.Outer Join.md",
+    "9.Joining Data/1.JOIN.md",
+    "8.Data Constraints/1.NOT NULL Constraints.md",
     "8.Data Constraints/8.DEFAULT Constraints.md",
     "8.Data Constraints/7.CHECK Constraints.md",
     "8.Data Constraints/6.Alternate Key.md",
@@ -175,7 +186,6 @@
     "8.Data Constraints/4.Composite Key.md",
     "8.Data Constraints/3.Foreign Key Constraints.md",
     "8.Data Constraints/2.Primary Key Constraints.md",
-    "8.Data Constraints/1.NOT NULL Constraints.md",
     "7.Aggregate Functions/1.Aggregate Function.md",
     "7.Aggregate Functions/6.AVG() Function.md",
     "7.Aggregate Functions/5.MAX() Function.md",
@@ -184,16 +194,6 @@
     "7.Aggregate Functions/2.Count() Function.md",
     "6.Operators/1.AND Operator.md",
     "6.Operators/16.CASE Operator.md",
-    "6.Operators/15.EXISTS Operator.md",
-    "6.Operators/14.INTERSECT Operator.md",
-    "6.Operators/13.ALL and ANY.md",
-    "6.Operators/12.BETWEEN Operator.md",
-    "6.Operators/11.EXCEPT Operator.md",
-    "6.Operators/10.UNION ALL Operator.md",
-    "6.Operators/9.UNION Operator.md",
-    "6.Operators/8.IS NULL Operator.md",
-    "6.Operators/7.NOT EQUAL Operator.md",
-    "6.Operators/6.NOT Operator.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",

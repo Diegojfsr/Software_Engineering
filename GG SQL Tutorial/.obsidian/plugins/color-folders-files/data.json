@@ -377,6 +377,13 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#f471e3"
+    },
+    "9.Joining Data": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#f56b94"
     }
   },
   "presets": {},
