@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13.Subquery/1.Subquery.md",
+                "file": "14.Miscellaneous Topics/1.Wildcards Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Subquery"
+              "title": "1.Wildcards Operators"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13.Subquery/1.Subquery.md",
+                "file": "14.Miscellaneous Topics/1.Wildcards Operators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Subquery"
+              "title": "Sumário de 1.Wildcards Operators"
             }
           },
           {
@@ -168,9 +168,25 @@
   },
   "active": "de9d87c3919eefb9",
   "lastOpenFiles": [
+    "14.Miscellaneous Topics/15.Database Tuning.md",
+    "14.Miscellaneous Topics/16.Dynamic.md",
+    "14.Miscellaneous Topics/14.Common Table Expressions.md",
+    "14.Miscellaneous Topics/13.Cursors.md",
+    "14.Miscellaneous Topics/12.Window functions.md",
+    "14.Miscellaneous Topics/11.Auto Increment.md",
+    "14.Miscellaneous Topics/10.Using Sequences.md",
+    "14.Miscellaneous Topics/9.Sub Queries.md",
+    "14.Miscellaneous Topics/8.Transactions.md",
+    "14.Miscellaneous Topics/7.Stored Procedures.md",
+    "14.Miscellaneous Topics/6.Performance Tuning.md",
+    "14.Miscellaneous Topics/5.Hosting.md",
+    "14.Miscellaneous Topics/4.Trigger.md",
+    "14.Miscellaneous Topics/3.Pivot and Unpivot.md",
+    "14.Miscellaneous Topics/2.Comments.md",
+    "14.Miscellaneous Topics/1.Wildcards Operators.md",
+    "13.Subquery/1.Subquery.md",
     "13.Subquery/3.Nested Queries.md",
     "13.Subquery/2.Correlated Subqueries.md",
-    "13.Subquery/1.Subquery.md",
     "12.Indexes/1.Indexes.md",
     "12.Indexes/2.Create Index.md",
     "12.Indexes/6.Clustered Index vs Non-Clustered Index.md",
@@ -178,22 +194,6 @@
     "12.Indexes/4.Show Indexes.md",
     "12.Indexes/3.Drop Index.md",
     "11.Views/1.CREATE VIEW.md",
-    "11.Views/2.UPDATE VIEW.md",
-    "11.Views/3.RENAME VIEW.md",
-    "11.Views/4.DELETE VIEW.md",
-    "10.Functions/1.Date Functions.md",
-    "10.Functions/10.RTRIM Function.md",
-    "10.Functions/9.UPPER Function.md",
-    "10.Functions/8.LTRIM Function.md",
-    "10.Functions/7.Datatype Functions.md",
-    "10.Functions/6.Conversion Functions.md",
-    "10.Functions/5.JSON Functions.md",
-    "10.Functions/4.Statistical Functions.md",
-    "10.Functions/3.Numeric Functions.md",
-    "10.Functions/2.String Functions.md",
-    "9.Joining Data/1.JOIN.md",
-    "9.Joining Data/10.Recursive Join.md",
-    "9.Joining Data/9.DELETE JOIN.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",

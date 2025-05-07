@@ -412,6 +412,13 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#5fd8c0"
+    },
+    "14.Miscellaneous Topics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#5787e5"
     }
   },
   "presets": {},
