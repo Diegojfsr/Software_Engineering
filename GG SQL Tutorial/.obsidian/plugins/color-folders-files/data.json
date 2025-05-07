@@ -370,6 +370,13 @@
       "isBold": true,
       "textColor": "#f5f5f5",
       "backgroundColor": "#9a45d3"
+    },
+    "8.Data Constraints": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#f471e3"
     }
   },
   "presets": {},
