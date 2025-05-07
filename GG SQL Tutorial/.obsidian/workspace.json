@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Joining Data/1.JOIN.md",
+                "file": "10.Functions/1.Date Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.JOIN"
+              "title": "1.Date Functions"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Joining Data/1.JOIN.md",
+                "file": "10.Functions/1.Date Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.JOIN"
+              "title": "Sumário de 1.Date Functions"
             }
           },
           {
@@ -168,6 +168,17 @@
   },
   "active": "5008dc4bbc8637ee",
   "lastOpenFiles": [
+    "10.Functions/10.RTRIM Function.md",
+    "10.Functions/9.UPPER Function.md",
+    "10.Functions/8.LTRIM Function.md",
+    "10.Functions/7.Datatype Functions.md",
+    "10.Functions/6.Conversion Functions.md",
+    "10.Functions/5.JSON Functions.md",
+    "10.Functions/4.Statistical Functions.md",
+    "10.Functions/3.Numeric Functions.md",
+    "10.Functions/2.String Functions.md",
+    "10.Functions/1.Date Functions.md",
+    "9.Joining Data/1.JOIN.md",
     "9.Joining Data/10.Recursive Join.md",
     "9.Joining Data/9.DELETE JOIN.md",
     "9.Joining Data/8.UPDATE with JOIN.md",
@@ -177,23 +188,12 @@
     "9.Joining Data/4.Right Join.md",
     "9.Joining Data/3.Left Join.md",
     "9.Joining Data/2.Outer Join.md",
-    "9.Joining Data/1.JOIN.md",
     "8.Data Constraints/1.NOT NULL Constraints.md",
     "8.Data Constraints/8.DEFAULT Constraints.md",
     "8.Data Constraints/7.CHECK Constraints.md",
     "8.Data Constraints/6.Alternate Key.md",
     "8.Data Constraints/5.Unique Constraints.md",
     "8.Data Constraints/4.Composite Key.md",
-    "8.Data Constraints/3.Foreign Key Constraints.md",
-    "8.Data Constraints/2.Primary Key Constraints.md",
-    "7.Aggregate Functions/1.Aggregate Function.md",
-    "7.Aggregate Functions/6.AVG() Function.md",
-    "7.Aggregate Functions/5.MAX() Function.md",
-    "7.Aggregate Functions/4.MIN() Function.md",
-    "7.Aggregate Functions/3.SUM() Function.md",
-    "7.Aggregate Functions/2.Count() Function.md",
-    "6.Operators/1.AND Operator.md",
-    "6.Operators/16.CASE Operator.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",
