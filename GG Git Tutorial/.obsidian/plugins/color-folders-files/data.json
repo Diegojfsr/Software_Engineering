@@ -453,6 +453,13 @@
       "isBold": true,
       "textColor": "#f5f5f5",
       "backgroundColor": "#fd6d6d"
+    },
+    "2.Git Basics": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#f1a63b"
     }
   },
   "presets": {},
