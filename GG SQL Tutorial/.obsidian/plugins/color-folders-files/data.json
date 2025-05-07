@@ -426,6 +426,13 @@
       "isBold": true,
       "textColor": "#fcf8f8",
       "backgroundColor": "#d868ee"
+    },
+    "16.Database Design and Modeling": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#f4a4db"
     }
   },
   "presets": {},

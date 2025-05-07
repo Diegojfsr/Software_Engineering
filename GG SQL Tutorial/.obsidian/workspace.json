@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15.Exercises, Interview Questions & Cheat Sheet/1.Exercises.md",
+                "file": "16.Database Design and Modeling/1.Introduction of ER Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Exercises"
+              "title": "1.Introduction of ER Model"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15.Exercises, Interview Questions & Cheat Sheet/1.Exercises.md",
+                "file": "16.Database Design and Modeling/1.Introduction of ER Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Exercises"
+              "title": "Sumário de 1.Introduction of ER Model"
             }
           },
           {
@@ -168,12 +168,25 @@
   },
   "active": "4ce0d808139de596",
   "lastOpenFiles": [
+    "16.Database Design and Modeling/10.Database Design.md",
+    "16.Database Design and Modeling/9.Denormalization in Databases.md",
+    "16.Database Design and Modeling/8.Normal Forms in DBMS.md",
+    "16.Database Design and Modeling/7.Rules of Inference.md",
+    "16.Database Design and Modeling/6.Types of Functional dependencies.md",
+    "16.Database Design and Modeling/5.Functional Dependency and Attribute Closure.md",
+    "16.Database Design and Modeling/4.Introduction of Database Normalization.md",
+    "16.Database Design and Modeling/3.Mapping from ER Model to Relational Model.md",
+    "16.Database Design and Modeling/2.How to Draw Entity Relationship Diagrams (ERDs).md",
+    "16.Database Design and Modeling/1.Introduction of ER Model.md",
+    "11.Views/1.CREATE VIEW.md",
+    "12.Indexes/2.Create Index.md",
+    "12.Indexes/1.Indexes.md",
+    "15.Exercises, Interview Questions & Cheat Sheet/1.Exercises.md",
     "15.Exercises, Interview Questions & Cheat Sheet/6.Days of SQL – From Basic to Advanced(30Dias).md",
     "15.Exercises, Interview Questions & Cheat Sheet/5.Cheat Sheet.md",
     "15.Exercises, Interview Questions & Cheat Sheet/4.Query Interview Questions.md",
     "15.Exercises, Interview Questions & Cheat Sheet/3.Interview Questions.md",
     "15.Exercises, Interview Questions & Cheat Sheet/2.Quiz.md",
-    "15.Exercises, Interview Questions & Cheat Sheet/1.Exercises.md",
     "14.Miscellaneous Topics/1.Wildcards Operators.md",
     "14.Miscellaneous Topics/15.Database Tuning.md",
     "14.Miscellaneous Topics/16.Dynamic.md",
@@ -181,19 +194,6 @@
     "14.Miscellaneous Topics/13.Cursors.md",
     "14.Miscellaneous Topics/12.Window functions.md",
     "14.Miscellaneous Topics/11.Auto Increment.md",
-    "14.Miscellaneous Topics/10.Using Sequences.md",
-    "14.Miscellaneous Topics/9.Sub Queries.md",
-    "14.Miscellaneous Topics/8.Transactions.md",
-    "14.Miscellaneous Topics/7.Stored Procedures.md",
-    "14.Miscellaneous Topics/6.Performance Tuning.md",
-    "14.Miscellaneous Topics/5.Hosting.md",
-    "14.Miscellaneous Topics/4.Trigger.md",
-    "14.Miscellaneous Topics/3.Pivot and Unpivot.md",
-    "14.Miscellaneous Topics/2.Comments.md",
-    "13.Subquery/1.Subquery.md",
-    "13.Subquery/3.Nested Queries.md",
-    "13.Subquery/2.Correlated Subqueries.md",
-    "12.Indexes/1.Indexes.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",
