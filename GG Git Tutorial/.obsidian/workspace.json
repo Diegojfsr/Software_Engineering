@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Git Advanced/1.How to Handle Big Repositories with Git.md",
+                "file": "1.Introduction to Git/1.Version Control System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.How to Handle Big Repositories with Git"
+              "title": "1.Version Control System"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Git Advanced/1.How to Handle Big Repositories with Git.md",
+                "file": "1.Introduction to Git/1.Version Control System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.How to Handle Big Repositories with Git"
+              "title": "Sumário de 1.Version Control System"
             }
           },
           {
@@ -168,6 +168,20 @@
   },
   "active": "525c12c930e5813e",
   "lastOpenFiles": [
+    "1.Introduction to Git/13.Difference between CVS and GitHub.md",
+    "1.Introduction to Git/12.GitHub Labels.md",
+    "1.Introduction to Git/11.GitHub Readme File.md",
+    "1.Introduction to Git/10.Readme.md File.md",
+    "1.Introduction to Git/9.Git Ignore.md",
+    "1.Introduction to Git/8.Bare Repositories in Git.md",
+    "1.Introduction to Git/7.Git Features.md",
+    "1.Introduction to Git/6.Git Repository.md",
+    "1.Introduction to Git/5.Introduction to GitHub.md",
+    "1.Introduction to Git/4.Git Features.md",
+    "1.Introduction to Git/3.History of Git.md",
+    "1.Introduction to Git/2.Introduction and Installation of Git.md",
+    "1.Introduction to Git/1.Version Control System.md",
+    "11.Git Advanced/1.How to Handle Big Repositories with Git.md",
     "11.Git Advanced/30.GitHub Actions For Android.md",
     "11.Git Advanced/29.Basic CI Workflow For Android using GitHub Actions.md",
     "11.Git Advanced/28.How to Upload Android APK to Testers Group in Firebase Using GitHub Actions.md",
@@ -180,20 +194,6 @@
     "11.Git Advanced/21.How to Add GIT Credentials in Jenkins.md",
     "11.Git Advanced/20.Continuous Integration and Continuous Development(CI-CD).md",
     "11.Git Advanced/19.Link your GitHub Account with R Studio.md",
-    "11.Git Advanced/18.Difference between Git and SVN.md",
-    "11.Git Advanced/17.Difference between Gitlab and GitHub.md",
-    "11.Git Advanced/16.How to Trigger WebHooks without Events – Probot Github App.md",
-    "11.Git Advanced/15.Jenkins and GIT Integration using SSH Key.md",
-    "11.Git Advanced/14.How to Make a GitHub Bot.md",
-    "11.Git Advanced/13.Difference between MERCURIAL and GIT.md",
-    "11.Git Advanced/12.Introduction to Mercurial.md",
-    "11.Git Advanced/11.Working on Bitbucket using Git.md",
-    "11.Git Advanced/10.Using Bitbucket as an extension to GitHub Capabilities.md",
-    "11.Git Advanced/9.Difference between Bitbucket and GitHub.md",
-    "11.Git Advanced/8.Introduction to Bitbucket.md",
-    "11.Git Advanced/7.Downloading gists from Github made simple.md",
-    "11.Git Advanced/6.How to Install and Use Git in Google Colab.md",
-    "11.Git Advanced/5.Automating some git commands with Python.md",
     "11.Git Advanced",
     "10.Git Collaborating",
     "9.Git and GitHub Deployment",

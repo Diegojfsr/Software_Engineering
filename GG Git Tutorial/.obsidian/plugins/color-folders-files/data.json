@@ -446,6 +446,13 @@
       "applyToSubfolders": true,
       "textColor": "#ededed",
       "backgroundColor": "#d9c53f"
+    },
+    "1.Introduction to Git": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#fd6d6d"
     }
   },
   "presets": {},
