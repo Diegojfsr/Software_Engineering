@@ -419,6 +419,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#5787e5"
+    },
+    "15.Exercises, Interview Questions & Cheat Sheet": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcf8f8",
+      "backgroundColor": "#d868ee"
     }
   },
   "presets": {},
