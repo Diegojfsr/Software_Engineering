@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.CRUD Operations/6.DELETE Duplicate Rows.md",
+                "file": "5.Clauses/1.WHERE Clause.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.DELETE Duplicate Rows"
+              "title": "1.WHERE Clause"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.CRUD Operations/6.DELETE Duplicate Rows.md",
+                "file": "5.Clauses/1.WHERE Clause.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 6.DELETE Duplicate Rows"
+              "title": "Sumário de 1.WHERE Clause"
             }
           },
           {
@@ -168,6 +168,16 @@
   },
   "active": "5008dc4bbc8637ee",
   "lastOpenFiles": [
+    "5.Clauses/9.Aliases.md",
+    "5.Clauses/8.FETCH.md",
+    "5.Clauses/7.Distinct Clause.md",
+    "5.Clauses/6.LIMIT Clause.md",
+    "5.Clauses/5.Group By Clause.md",
+    "5.Clauses/4.ORDER By Clause.md",
+    "5.Clauses/3.HAVING Clause.md",
+    "5.Clauses/2.WITH Clause.md",
+    "5.Clauses/1.WHERE Clause.md",
+    "4.CRUD Operations/6.DELETE Duplicate Rows.md",
     "4.CRUD Operations/5.DELETE Statement.md",
     "4.CRUD Operations/4.UPDATE Statement.md",
     "4.CRUD Operations/3.INSERT Multiple Rows.md",
@@ -184,16 +194,6 @@
     "3.Tables/3.RENAME TABLE.md",
     "3.Tables/2.DROP TABLE.md",
     "3.Tables/1.CREATE TABLE.md",
-    "1.Basics/1.Introduction.md",
-    "GPS - GERENCIAMENTO DE PROCESSO SELETIVO.md",
-    "1.Basics/4.Commands.md",
-    "1.Basics/3.Operators.md",
-    "1.Basics/2.Data Types.md",
-    "19.Database Connectivity/3.ODBC (Open Database Connectivity).md",
-    "19.Database Connectivity/2.ODM (Object-Document Mapping).md",
-    "19.Database Connectivity/1.ORM (Object-Relational Mapping).md",
-    "18.Projects/10.Movie Reservation System.md",
-    "18.Projects/9.E-commerce Database.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",

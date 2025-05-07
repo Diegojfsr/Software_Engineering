@@ -349,6 +349,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#57b545"
+    },
+    "5.Clauses": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#5badc8"
     }
   },
   "presets": {},
