@@ -405,6 +405,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#7bb654"
+    },
+    "13.Subquery": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#5fd8c0"
     }
   },
   "presets": {},

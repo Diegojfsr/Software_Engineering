@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12.Indexes/1.Indexes.md",
+                "file": "13.Subquery/1.Subquery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Indexes"
+              "title": "1.Subquery"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12.Indexes/1.Indexes.md",
+                "file": "13.Subquery/1.Subquery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Indexes"
+              "title": "Sumário de 1.Subquery"
             }
           },
           {
@@ -168,8 +168,11 @@
   },
   "active": "de9d87c3919eefb9",
   "lastOpenFiles": [
-    "12.Indexes/2.Create Index.md",
+    "13.Subquery/3.Nested Queries.md",
+    "13.Subquery/2.Correlated Subqueries.md",
+    "13.Subquery/1.Subquery.md",
     "12.Indexes/1.Indexes.md",
+    "12.Indexes/2.Create Index.md",
     "12.Indexes/6.Clustered Index vs Non-Clustered Index.md",
     "12.Indexes/5.Unique Index.md",
     "12.Indexes/4.Show Indexes.md",
@@ -191,9 +194,6 @@
     "9.Joining Data/1.JOIN.md",
     "9.Joining Data/10.Recursive Join.md",
     "9.Joining Data/9.DELETE JOIN.md",
-    "9.Joining Data/8.UPDATE with JOIN.md",
-    "9.Joining Data/7.Self Join.md",
-    "9.Joining Data/6.Cross Join.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",
