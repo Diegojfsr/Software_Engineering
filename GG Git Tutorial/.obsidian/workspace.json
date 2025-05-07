@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Git Basics/1.Git – SubGit.md",
+                "file": "3.Git Installation/1.How to Use Git in Ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Git – SubGit"
+              "title": "1.How to Use Git in Ubuntu"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Git Basics/1.Git – SubGit.md",
+                "file": "3.Git Installation/1.How to Use Git in Ubuntu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Git – SubGit"
+              "title": "Sumário de 1.How to Use Git in Ubuntu"
             }
           },
           {
@@ -168,32 +168,32 @@
   },
   "active": "525c12c930e5813e",
   "lastOpenFiles": [
+    "3.Git Installation/19.How to Set Up Git Using Git Config.md",
+    "3.Git Installation/18.How to Install Git on Termux.md",
+    "3.Git Installation/17.How to Install Git on Raspberry Pi.md",
+    "3.Git Installation/16.How to Install Sourcetree for GIT in MacOs.md",
+    "3.Git Installation/15.How to Install Sourcetree for GIT on Windows.md",
+    "3.Git Installation/14.How to Install Git Large File Storage on Linux.md",
+    "3.Git Installation/13.How to Install Git on Cygwin.md",
+    "3.Git Installation/12.How to install GIT by NPM Packages.md",
+    "3.Git Installation/11.How to Install Git on Windows Using Chocolatey.md",
+    "3.Git Installation/10.How to Install GIT on GoDaddy Server on Linux.md",
+    "3.Git Installation/9.How to Install GIT in Conda.md",
+    "3.Git Installation/8.How to Install Git on VMWare.md",
+    "3.Git Installation/7.How to Install Git With Spyder.md",
+    "3.Git Installation/6.How to Setup Git on Anypoint Studio.md",
+    "3.Git Installation/5.How to add GIT credentials on Linux.md",
+    "3.Git Installation/4.How to add GIT credentials on Windows.md",
+    "3.Git Installation/3.How to Add GIT Credentials in MacOS.md",
+    "3.Git Installation/2.How to Setup Git Server on Ubuntu.md",
+    "3.Git Installation/1.How to Use Git in Ubuntu.md",
+    "2.Git Basics/1.Git – SubGit.md",
     "2.Git Basics/18.Git – Difference Between HEAD, Working Tree and Index.md",
     "2.Git Basics/17.Git Flow vs GitHub Flow.md",
     "2.Git Basics/16.Git Garbage Collection.md",
     "2.Git Basics/15.Git Packfiles.md",
     "2.Git Basics/14.Git Workflow Etiquettes.md",
     "2.Git Basics/13.Deleting a Local GitHub Repository.md",
-    "2.Git Basics/12.How to Write Good Commit Messages on GitHub.md",
-    "2.Git Basics/11.Use of Submodules in GitHub.md",
-    "2.Git Basics/10.States of a File in Git Working Directory.md",
-    "2.Git Basics/9.Working on Git Bash.md",
-    "2.Git Basics/8.Difference Between Git and GitHub.md",
-    "2.Git Basics/7.Working on Git with GUI.md",
-    "2.Git Basics/6.Using GitHub with SSH.md",
-    "2.Git Basics/5.Working with Git Repositories.md",
-    "2.Git Basics/4.How to Setup a Repository.md",
-    "2.Git Basics/3.Using Git on CLI.md",
-    "2.Git Basics/2.Git Environment Setup.md",
-    "2.Git Basics/1.Git – SubGit.md",
-    "1.Introduction to Git/1.Version Control System.md",
-    "1.Introduction to Git/13.Difference between CVS and GitHub.md",
-    "1.Introduction to Git/12.GitHub Labels.md",
-    "1.Introduction to Git/11.GitHub Readme File.md",
-    "1.Introduction to Git/10.Readme.md File.md",
-    "1.Introduction to Git/9.Git Ignore.md",
-    "1.Introduction to Git/8.Bare Repositories in Git.md",
-    "1.Introduction to Git/7.Git Features.md",
     "11.Git Advanced",
     "10.Git Collaborating",
     "9.Git and GitHub Deployment",

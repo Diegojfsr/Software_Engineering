@@ -460,6 +460,13 @@
       "isBold": true,
       "textColor": "#f5f5f5",
       "backgroundColor": "#f1a63b"
+    },
+    "3.Git Installation": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#dadd1d"
     }
   },
   "presets": {},
