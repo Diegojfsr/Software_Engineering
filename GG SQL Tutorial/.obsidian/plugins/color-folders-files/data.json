@@ -440,6 +440,12 @@
       "isBold": true,
       "textColor": "#f9f5f5",
       "backgroundColor": "#da7777"
+    },
+    "19.Database Connectivity": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "textColor": "#ededed",
+      "backgroundColor": "#d9c53f"
     }
   },
   "presets": {},

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54b11bd7e659266d",
+        "id": "b5433ea8d7660524",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b2711852a2234d",
+            "id": "d0c016010daa247a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17.Database Security/1.Injection.md",
+                "file": "19.Database Connectivity/1.ORM (Object-Relational Mapping).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Injection"
+              "title": "1.ORM (Object-Relational Mapping)"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17.Database Security/1.Injection.md",
+                "file": "19.Database Connectivity/1.ORM (Object-Relational Mapping).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.Injection"
+              "title": "Sumário de 1.ORM (Object-Relational Mapping)"
             }
           },
           {
@@ -166,14 +166,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b9b2711852a2234d",
+  "active": "d0c016010daa247a",
   "lastOpenFiles": [
+    "19.Database Connectivity/3.ODBC (Open Database Connectivity).md",
+    "19.Database Connectivity/2.ODM (Object-Document Mapping).md",
+    "19.Database Connectivity/1.ORM (Object-Relational Mapping).md",
+    "18.Projects/1.Ola SQL Data Analysis.md",
+    "17.Database Security/1.Injection.md",
     "17.Database Security/6.How to Restore SQL Server Database From Backup.md",
     "17.Database Security/5.Backup.md",
     "17.Database Security/4.Database Recovery Techniques in DBMS.md",
     "17.Database Security/3.Data Encryption.md",
     "17.Database Security/2.Types of SQL Injection.md",
-    "17.Database Security/1.Injection.md",
     "16.Database Design and Modeling/1.Introduction of ER Model.md",
     "16.Database Design and Modeling/10.Database Design.md",
     "16.Database Design and Modeling/9.Denormalization in Databases.md",
@@ -190,10 +194,6 @@
     "15.Exercises, Interview Questions & Cheat Sheet/1.Exercises.md",
     "15.Exercises, Interview Questions & Cheat Sheet/6.Days of SQL – From Basic to Advanced(30Dias).md",
     "15.Exercises, Interview Questions & Cheat Sheet/5.Cheat Sheet.md",
-    "15.Exercises, Interview Questions & Cheat Sheet/4.Query Interview Questions.md",
-    "15.Exercises, Interview Questions & Cheat Sheet/3.Interview Questions.md",
-    "15.Exercises, Interview Questions & Cheat Sheet/2.Quiz.md",
-    "14.Miscellaneous Topics/1.Wildcards Operators.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",
