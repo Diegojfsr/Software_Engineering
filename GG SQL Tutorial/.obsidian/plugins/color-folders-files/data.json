@@ -363,6 +363,13 @@
       "isBold": true,
       "textColor": "#fcfcfc",
       "backgroundColor": "#5b43d0"
+    },
+    "7.Aggregate Functions": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "isBold": true,
+      "textColor": "#f5f5f5",
+      "backgroundColor": "#9a45d3"
     }
   },
   "presets": {},
