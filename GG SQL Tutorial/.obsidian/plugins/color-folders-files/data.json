@@ -391,6 +391,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#ea9c43"
+    },
+    "11.Views": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fafafa",
+      "backgroundColor": "#f4db5d"
     }
   },
   "presets": {},
