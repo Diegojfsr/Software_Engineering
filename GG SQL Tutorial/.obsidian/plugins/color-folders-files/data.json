@@ -398,6 +398,13 @@
       "isBold": true,
       "textColor": "#fafafa",
       "backgroundColor": "#f4db5d"
+    },
+    "12.Indexes": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#ffffff",
+      "backgroundColor": "#7bb654"
     }
   },
   "presets": {},

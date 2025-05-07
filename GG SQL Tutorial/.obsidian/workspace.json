@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "04ae1d27ac47b81b",
+        "id": "f655dbfeef121e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "b373d204527ef978",
+            "id": "de9d87c3919eefb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.Views/1.CREATE VIEW.md",
+                "file": "12.Indexes/1.Indexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.CREATE VIEW"
+              "title": "1.Indexes"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.Views/1.CREATE VIEW.md",
+                "file": "12.Indexes/1.Indexes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.CREATE VIEW"
+              "title": "Sumário de 1.Indexes"
             }
           },
           {
@@ -166,12 +166,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b373d204527ef978",
+  "active": "de9d87c3919eefb9",
   "lastOpenFiles": [
+    "12.Indexes/2.Create Index.md",
+    "12.Indexes/1.Indexes.md",
+    "12.Indexes/6.Clustered Index vs Non-Clustered Index.md",
+    "12.Indexes/5.Unique Index.md",
+    "12.Indexes/4.Show Indexes.md",
+    "12.Indexes/3.Drop Index.md",
+    "11.Views/1.CREATE VIEW.md",
     "11.Views/2.UPDATE VIEW.md",
     "11.Views/3.RENAME VIEW.md",
     "11.Views/4.DELETE VIEW.md",
-    "11.Views/1.CREATE VIEW.md",
     "10.Functions/1.Date Functions.md",
     "10.Functions/10.RTRIM Function.md",
     "10.Functions/9.UPPER Function.md",
@@ -188,12 +194,6 @@
     "9.Joining Data/8.UPDATE with JOIN.md",
     "9.Joining Data/7.Self Join.md",
     "9.Joining Data/6.Cross Join.md",
-    "9.Joining Data/5.Full Join.md",
-    "9.Joining Data/4.Right Join.md",
-    "9.Joining Data/3.Left Join.md",
-    "9.Joining Data/2.Outer Join.md",
-    "8.Data Constraints/1.NOT NULL Constraints.md",
-    "8.Data Constraints/8.DEFAULT Constraints.md",
     "20.Jobs and Opportunities",
     "19.Database Connectivity",
     "18.Projects",
