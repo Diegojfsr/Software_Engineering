@@ -433,6 +433,13 @@
       "isBold": true,
       "textColor": "#f5f5f5",
       "backgroundColor": "#f4a4db"
+    },
+    "17.Database Security": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#f9f5f5",
+      "backgroundColor": "#da7777"
     }
   },
   "presets": {},
