@@ -467,6 +467,13 @@
       "isBold": true,
       "textColor": "#ffffff",
       "backgroundColor": "#dadd1d"
+    },
+    "4.Git Commands": {
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isBold": true,
+      "textColor": "#fcfcfc",
+      "backgroundColor": "#61c445"
     }
   },
   "presets": {},
